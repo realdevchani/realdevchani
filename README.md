@@ -1,4 +1,9 @@
 ## Hi there 👋
+## Profile
+📞 **Email** | devchan0208@gmail.com <br />
+✉ **Phone** | 010-3313-9339 <br />
+✉ **Notion** | (https://www.notion.so/MAP-SET-2b7d61e3e56480b5a08dfb74f1264ba9?source=copy_link)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 **realdevchani/realdevchani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
